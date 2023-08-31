@@ -1,0 +1,158 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.navbar{
+    height: 100px;
+    width: 100vw;
+    background-color: #52B38F;
+}
+
+body{
+height: 100vh;
+width: 100vw;
+background-color: #B4E9F3;
+
+}
+
+.intro{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+  align-items: center;
+margin-bottom: 50px;
+ flex-direction: column;
+}
+.intro h2{
+
+    margin-bottom: 30px;
+    font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px
+    ;
+}
+
+.intro h1{
+    margin: 5px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}
+.intro img{
+    height: 300px;
+    width: 500px;
+   
+}
+
+.cloud3{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    top:120px;
+    left:50px;
+
+}
+
+.cloud4{
+    position: absolute;
+    height: 100px;
+    width: 150px;
+    top:180px;
+    left:200px;
+
+}
+
+.cloud2{
+    position: absolute;
+    height: 100px;
+    width: 300px;
+    top:120px;
+    right:50px;
+
+}
+.cloud1{
+    position: absolute;
+    height: 100px;
+    width: 200px;
+    top:60px;
+ left:250px;
+}
+.hrcontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-width: 5px;
+    border-color: #146fcb;
+    width: 60%;
+}
+
+.skills{
+  margin-top: 50px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.skills h1{
+    margin :20px  
+}
+.container{
+    margin: 20px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 50%;
+
+}      
+
+p{
+    font-family: 'Merriweather', Merriweather;
+    font-size: 20px;
+
+}
+
+.container img{
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+    transition: all .4s ease-in;
+
+}
+
+.container img:hover{
+    height: 200px;
+    width: 200px;
+}
+.contact{
+    height: 100px;
+    width: 100vw;
+    background-color: #52B38F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.contact img{
+    height: 40px;
+    width: 40px;
+    margin: 30px;
+}
+.right{
+height: 200px;
+width: 60%;
+float: right;
+}
+.left{
+    height: 200px;
+    width: 40%;
+    float: left;
+}

@@ -3,7 +3,6 @@
 ### 📌 BTech Graduate · Data Science Learner at Imarticus  
 Passionate about transforming raw data into insights and building real-world analytical solutions.
 
-![Profile Views](https://komarev.com/ghpvc/?username=BipinTP&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
@@ -42,22 +41,6 @@ Passionate about transforming raw data into insights and building real-world ana
 - Build interactive dashboards  
 - Explore datasets to uncover insights  
 - Work on end-to-end analytics projects  
-
----
-
-## 🚀 Featured Projects
-
-🔹 **Sales Analytics Dashboard**  
-📌 Power BI · DAX · Data Modeling  
-👉 *Coming soon...*
-
-🔹 **Python EDA on Real-World Dataset**  
-📌 Pandas · Matplotlib · Insights  
-👉 *Coming soon...*
-
-🔹 **Retail SQL Case Study**  
-📌 MySQL · Joins · Window Functions  
-👉 *Coming soon...*
 
 ---
 

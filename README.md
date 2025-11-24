@@ -45,8 +45,10 @@ Passionate about transforming raw data into insights and building real-world ana
 
 ## 📬 Connect With Me
 
-[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/BipinTP)
-[![Email](https://img.icons8.com/ios-filled/30/000000/mail.png)](mailto:bipinthekkade@gmail.com)
+### 🔗 Clickable Icons (visible in dark mode)
+
+[![GitHub](https://img.icons8.com/ios-glyphs/30/ffffff/github.png)](https://github.com/BipinTP)
+[![Email](https://img.icons8.com/ios-filled/30/ffffff/new-post.png)](mailto:bipinthekkade@gmail.com)
 
 ---
 

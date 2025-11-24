@@ -10,7 +10,7 @@ Passionate about turning data into insights and building real-world analytical p
 - **Programming:** Python (Pandas, NumPy, Matplotlib)  
 - **Databases:** SQL (MySQL)  
 - **BI Tools:** Power BI  
-- **Other:** Excel, Vs Code Jupyter Notebook, GitHub 
+- **Other:** Excel, Vs Code, Jupyter Notebook, GitHub 
 
 ---
 

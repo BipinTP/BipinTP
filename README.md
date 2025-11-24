@@ -3,7 +3,6 @@
 ### 📌 BTech Graduate · Data Science Learner at Imarticus  
 Passionate about transforming raw data into insights and building real-world analytical solutions.
 
-
 ---
 
 ## 🔧 Skills & Tools
@@ -45,8 +44,9 @@ Passionate about transforming raw data into insights and building real-world ana
 ---
 
 ## 📬 Connect With Me
-- **GitHub:** https://github.com/BipinTP  
-- **Email:** bipinthekkade@gmail.com  
+
+[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/BipinTP)
+[![Email](https://img.icons8.com/ios-filled/30/000000/mail.png)](mailto:bipinthekkade@gmail.com)
 
 ---
 

@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bipin</h1>
 <h3 align="center">Data Science & Analytics Enthusiast</h3>
 
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=bipintp&label=Profile%20Views&color=0e75b6&style=flat" alt="bipintp" />
-</p>
-
 ---
 
 - 🌱 I’m currently learning **Data Science**

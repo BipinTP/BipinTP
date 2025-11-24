@@ -8,9 +8,9 @@ Passionate about turning data into insights and building real-world analytical p
 ## 🔧 Skills & Tools
 
 - **Programming:** Python (Pandas, NumPy, Matplotlib)  
-- **Databases:** SQL (MySQL, PostgreSQL)  
+- **Databases:** SQL (MySQL)  
 - **BI Tools:** Power BI  
-- **Other:** Excel, Jupyter Notebook, Git & GitHub  
+- **Other:** Excel, Vs Code Jupyter Notebook, GitHub 
 
 ---
 
@@ -27,19 +27,13 @@ Passionate about turning data into insights and building real-world analytical p
 - Build interactive dashboards  
 - Explore datasets and uncover insights  
 - Work on end-to-end analytics projects  
-
----
-
-## 🚀 Projects (More Coming Soon!)
-- 📈 **Sales Analytics Dashboard** (Power BI)  
-- 🧹 **EDA on Real-World Datasets** (Python)  
-- 🛒 **Retail SQL Case Study**  
+  
 
 ---
 
 ## 📫 Connect With Me
 - **GitHub:** github.com/BipinTP  
-- (Add LinkedIn here later if you want)
+-**Email:** bipinthekkade@gmail.com
 
 ---
 

@@ -1,55 +1,19 @@
-# 👋 Hi, I'm Bipin T P
+<h1 align="center">Hi 👋, I'm Bipin</h1>
+<h3 align="center">Data Science & Analytics Enthusiast</h3>
 
-### 📌 BTech Graduate · Data Science Learner at Imarticus  
-Passionate about transforming raw data into insights and building real-world analytical solutions.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bipintp&label=Profile%20views&color=0e75b6&style=flat" alt="bipintp" /> </p>
 
----
+- 🌱 I’m currently learning **Data Science**
 
-## 🔧 Skills & Tools
+- 📝 I regularly write articles on [https://medium.com/@bipinthekkade](https://medium.com/@bipinthekkade)
 
-### 🐍 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
+- 📫 How to reach me **bipinthekkade@gmail.com**
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/bipinthekkadeboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/bipinthekkadeboard" height="30" width="40" /></a>
+</p>
 
-### 📊 BI & Visualization
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
-
-### 🛠 Other Tools
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
----
-
-## 📚 Currently Learning
-- Data Science & Analytics  
-- Python for Data Analysis  
-- SQL for Data Engineering  
-- Power BI Dashboard Development  
-
----
-
-## 📊 What I Do
-- Clean, analyze, and visualize data  
-- Build interactive dashboards  
-- Explore datasets to uncover insights  
-- Work on end-to-end analytics projects  
-
----
-
-## 📬 Connect With Me
-
-### 🔗 Clickable Icons (visible in dark mode)
-
-[![GitHub](https://img.icons8.com/ios-glyphs/30/ffffff/github.png)](https://github.com/BipinTP)
-[![Email](https://img.icons8.com/ios-filled/30/ffffff/new-post.png)](mailto:bipinthekkade@gmail.com)
-
----
-
-⭐ *Thanks for visiting my profile! Always learning, always building.*  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>

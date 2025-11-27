@@ -4,7 +4,6 @@
 ---
 
 - 🎓 I'm a Computer Science engineer exploring the world of **Data Science & Machine Learning**
-- 📊 Interested in **EDA, predictive modeling, business analytics, and data storytelling**
 - 🌱 I’m currently learning:
   - Statistics for Data Science  
   - Machine Learning (Supervised & Unsupervised)  

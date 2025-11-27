@@ -28,8 +28,6 @@
 
 </p>
 
-> 💡 Replace the above `instagram.com` and `linkedin.com` links with your actual profile URLs.
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
@@ -73,13 +71,4 @@
 </p>
 
 ---
-
-<h3 align="left">What I'm Working On:</h3>
-
-- 🧠 Building small **ML projects** (classification, regression, clustering)
-- 📈 Creating **Power BI dashboards** from real-world datasets
-- ✍️ Writing **Medium blogs** explaining data concepts in simple language
-
----
-
-⭐ *Feel free to check out my projects and connect with me!*  
+  

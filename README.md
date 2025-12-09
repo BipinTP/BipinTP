@@ -9,7 +9,6 @@
   - Machine Learning (Supervised & Unsupervised)  
   - Data visualization & dashboarding (Power BI, Matplotlib, Seaborn)
 - 📝 I write articles on **Medium** → [@bipinthekkade](https://medium.com/@bipinthekkade)  
-- 💼 My GitHub → [github.com/BipinTP](https://github.com/BipinTP)  
 - 📫 Reach me at **bipinthekkade@gmail.com**
 
 ---

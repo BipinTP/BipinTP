@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning:
   - Statistics for Data Science  
   - Machine Learning (Supervised & Unsupervised)  
-  - Data visualization & dashboarding (Power BI, Matplotlib, Seaborn)
+  - Data visualization & dashboarding (Power BI,Matplotlib, Seaborn)
 - 📝 I write articles on **Medium** → [@bipinthekkade](https://medium.com/@bipinthekkade)  
 - 📫 Reach me at **bipinthekkade@gmail.com**
 

@@ -63,6 +63,12 @@
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40" alt="Power BI"/>
 </a>
 
+<a href="https://www.tableau.com/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"
+       width="40" height="40" alt="Tableau"/>
+</a>
+
+
 </p>
 
 ---
